@@ -1,4 +1,4 @@
-package regex.matchingdigitsandnondigitcharacters;
+package regex.introduction.matchingdigitsandnondigitcharacters;
 
 import org.junit.jupiter.api.Test;
 

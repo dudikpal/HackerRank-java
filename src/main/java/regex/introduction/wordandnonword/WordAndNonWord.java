@@ -1,14 +1,13 @@
-package regex.matchinganythingbutanewline;
+package regex.introduction.wordandnonword;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class MatchingAnythingButANewline {
-    
+public class WordAndNonWord {
     
     public boolean check(String pattern){
         
-        String testString = "123.456.abc.def";
+        String testString = "www.hackerrank.com";
         Pattern p = Pattern.compile(pattern);
         Matcher m = p.matcher(testString);
         

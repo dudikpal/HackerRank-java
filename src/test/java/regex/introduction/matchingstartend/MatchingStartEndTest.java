@@ -1,15 +1,15 @@
-package regex.wordandnonword;
+package regex.introduction.matchingstartend;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class WordAndNonWordTest {
+class MatchingStartEndTest {
     
     @Test
     void check() {
         
-        assertTrue(new WordAndNonWord().check("\\w{3}\\W\\w{1,}\\W\\w{3}"));
+        assertTrue(new MatchingStartEnd().check("^\\d\\w{4}.$"));
         
     }
 }

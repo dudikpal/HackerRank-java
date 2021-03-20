@@ -1,4 +1,4 @@
-package regex.whitespaceandnotwhitespace;
+package regex.introduction.whitespaceandnotwhitespace;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package regex.matchinganythingbutanewline;
+package regex.introduction.matchinganythingbutanewline;
 
 import org.junit.jupiter.api.Test;
 

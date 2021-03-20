@@ -1,4 +1,4 @@
-package regex.matchingstartend;
+package regex.introduction.matchingstartend;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
