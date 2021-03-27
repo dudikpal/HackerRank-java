@@ -13,12 +13,16 @@ public class DetectHTMLTags {
                                 "<p><a href=\"http://www.quackit.com/html/tutorial/html_links.cfm\">Example Link</a></p>\n" +
                                 "<div class=\"more-info\"><a href=\"http://www.quackit.com/html/examples/html_links_examples.cfm\">More Link Examples...</a></div>";
         String[] testStrings = testString.split("\n");
+        
+        
         String findedTags = "";
         int timeToProcess = Integer.parseInt(testStrings[0].trim());
         SortedSet<String> uniqueTags = new TreeSet<>();
         for (int i = 1; i < testStrings.length; i++) {
             findedTags += htmlTagsExtractor(pattern ,testStrings[i]);
         }
+        
+        
         String[] tags = findedTags.split(" ");
         for (String str : tags) {
             uniqueTags.add(str.trim());
@@ -30,7 +34,6 @@ public class DetectHTMLTags {
             result.append(tag);
             SEPARATOR = ";";
         }
-        
         System.out.println(result.toString());
         return result.toString();
     }
