@@ -1,4 +1,4 @@
-package regex.applications.ipaddressvalidation;
+package applications.ipaddressvalidation;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

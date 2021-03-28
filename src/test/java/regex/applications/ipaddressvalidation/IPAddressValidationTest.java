@@ -1,5 +1,6 @@
 package regex.applications.ipaddressvalidation;
 
+import applications.ipaddressvalidation.IPAddressValidation;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

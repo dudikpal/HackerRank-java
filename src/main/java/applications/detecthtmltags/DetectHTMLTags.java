@@ -1,4 +1,4 @@
-package regex.applications.detecthtmltags;
+package applications.detecthtmltags;
 
 import java.util.SortedSet;
 import java.util.TreeSet;

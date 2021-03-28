@@ -1,5 +1,6 @@
 package regex.applications.findasubword;
 
+import applications.findasubword.FindASubWord;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

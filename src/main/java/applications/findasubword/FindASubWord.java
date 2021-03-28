@@ -1,4 +1,4 @@
-package regex.applications.findasubword;
+package applications.findasubword;
 
 import java.util.ArrayList;
 import java.util.List;

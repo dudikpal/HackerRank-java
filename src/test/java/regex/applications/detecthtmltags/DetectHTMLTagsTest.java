@@ -1,5 +1,6 @@
 package regex.applications.detecthtmltags;
 
+import applications.detecthtmltags.DetectHTMLTags;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package regex.applications.alienusername;
+package applications.alienusername;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
