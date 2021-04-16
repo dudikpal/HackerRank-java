@@ -1,4 +1,4 @@
-package _java.easy.oop.exceptiohandling.exceptiohandling;
+package _java.easy.exceptiohandling.exceptiohandling;
 
 public class ExceptioHandling {
 

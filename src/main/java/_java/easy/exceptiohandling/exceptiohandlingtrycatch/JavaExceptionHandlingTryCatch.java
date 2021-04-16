@@ -1,4 +1,4 @@
-package _java.easy.oop.exceptiohandling.exceptiohandlingtrycatch;
+package _java.easy.exceptiohandling.exceptiohandlingtrycatch;
 
 import java.util.InputMismatchException;
 

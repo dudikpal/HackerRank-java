@@ -1,8 +1,6 @@
-package _java.easy.oop.exceptiohandling.exceptiohandling;
+package _java.easy.exceptiohandling.exceptiohandling;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class ExceptioHandlingTest {
     

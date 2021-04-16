@@ -1,8 +1,6 @@
-package _java.easy.oop.exceptiohandling.exceptiohandlingtrycatch;
+package _java.easy.exceptiohandling.exceptiohandlingtrycatch;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class JavaExceptionHandlingTryCatchTest {
     
