@@ -1,4 +1,4 @@
-package _java.easy.varargssimpleaddition;
+package _java.easy.advanced.varargssimpleaddition;
 
 import org.junit.jupiter.api.Test;
 
