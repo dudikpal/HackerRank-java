@@ -1,4 +1,4 @@
-package contests.project_euler.easy.even_fibonacci_numbers;
+package contests.project_euler.even_fibonacci_numbers;
 
 import java.util.ArrayList;
 import java.util.List;
