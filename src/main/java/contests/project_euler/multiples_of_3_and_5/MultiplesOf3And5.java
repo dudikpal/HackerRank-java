@@ -1,4 +1,4 @@
-package contests.project_euler.easy.multiples_of_3_and_5;
+package contests.project_euler.multiples_of_3_and_5;
 
 import java.io.Console;
 import java.util.ArrayList;
